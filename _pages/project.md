@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 title: ""
-permalink: /cv/
+permalink: /project/
 author_profile: true
 ---
 
