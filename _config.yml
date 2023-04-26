@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Wang's Homepage"
+title                    : "Welcome to Bo Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Bo Wang"
 description              : &description "personal description"
