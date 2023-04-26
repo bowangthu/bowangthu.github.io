@@ -45,13 +45,11 @@ _IEEE Transactions on Mobile Computing (TMC), 2019_
 * ___Towards Forward-looking Online Bitrate Adaptation for DASH___ \
 __Bo Wang__, Fengyuan Ren \
 _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
-
 Awards
 --
 * 2022: Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程)
 * 2022: Top 10 N2Women Rising Stars in Computer Networking and Communications
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
-
 Academic Service
 --
 * Publication Chair: IEEE PRDC 2022
