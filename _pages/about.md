@@ -27,18 +27,31 @@ Selected Publications
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
 _WWW 2023_. 
 
-Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei, “Enabling High Quality Real-Time Communications with Adaptive Frame-Rate”, USENIX NSDI 2023. 
+* __Enabling High Quality Real-Time Communications with Adaptive Frame-Rate__ \
+Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
+_USENIX NSDI 2023_. 
 
-Zili Meng, Yaning Guo, Chen Sun, __Bo Wang#__, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu, “Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop”, ACM SIGCOMM 2022. 
+* __Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop__
+Zili Meng, Yaning Guo, Chen Sun, __Bo Wang#__, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu \
+_ACM SIGCOMM 2022_. 
 
-Wufan Wang, __Bo Wang__, Lei Zhang, Hua Huang, “Sensitivity-aware Spatial Quality Adaptation for
-Live Video Analytics”, IEEE Journal on Selected Areas in Communications (JSAC), 2022. 
+* __Sensitivity-aware Spatial Quality Adaptation for Live Video Analytics__
+Wufan Wang, __Bo Wang__, Lei Zhang, Hua Huang \
+_IEEE Journal on Selected Areas in Communications (JSAC), 2022_. 
 
-__Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu, “Improving Robustness of DASH Against Unpredictable Network Variations”, IEEE Transactions on Multimedia (TMM), 2021.
+* __Improving Robustness of DASH Against Unpredictable Network Variations__
+__Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu \
+_IEEE Transactions on Multimedia (TMM), 2021_.
 
-__Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu, “Cratus: a Lightweight and Robust Approach for Mobile Live Streaming”, IEEE Transactions on Mobile Computing (TMC), 2020. 
+* __Cratus: a Lightweight and Robust Approach for Mobile Live Streaming__
+__Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu \
+_IEEE Transactions on Mobile Computing (TMC), 2020_. 
 
-__Bo Wang__, Fengyuan Ren, Jiahai Yang, Chao Zhou, “Improving the Performance of Online Bitrate Adaptation with Multi-step Prediction over Cellular Networks”, IEEE Transactions on Mobile Computing (TMC), 2019. 
+* __Improving the Performance of Online Bitrate Adaptation with Multi-step Prediction over Cellular Networks__
+__Bo Wang__, Fengyuan Ren, Jiahai Yang, Chao Zhou \
+_IEEE Transactions on Mobile Computing (TMC), 2019_. 
 
-__Bo Wang__, Fengyuan Ren, “Towards Forward-looking Online Bitrate Adaptation for DASH ”, ACM Multimedia (MM), 2017. (Oral, Acceptance rate 7.5%)
+* __Towards Forward-looking Online Bitrate Adaptation for DASH__
+__Bo Wang__, Fengyuan Ren
+_ACM Multimedia (MM), 2017. (Oral, Acceptance rate 7.5%)_
 
