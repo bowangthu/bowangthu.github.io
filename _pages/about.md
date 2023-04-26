@@ -23,9 +23,9 @@ Selected Publications
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
 _WWW 2023_
 
-* __Enabling High Quality Real-Time Communications with Adaptive Frame-Rate__ \
-Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
-_USENIX NSDI 2023_
+* ###__Enabling High Quality Real-Time Communications with Adaptive Frame-Rate__ \
+###Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
+###_USENIX NSDI 2023_
 
 * __Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop__ \
 Zili Meng, Yaning Guo, Chen Sun, __Bo Wang#__, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu \
