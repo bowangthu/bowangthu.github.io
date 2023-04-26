@@ -24,7 +24,7 @@ Real-Time Communications (RTC), Live streaming, VoD streaming
 Selected Publications
 ==
   
-* __DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction__ \
+* ___DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction___ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
 _WWW 2023_. 
 
