@@ -31,27 +31,27 @@ _WWW 2023_.
 Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
 _USENIX NSDI 2023_. 
 
-* __Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop__
+* __Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop__ \
 Zili Meng, Yaning Guo, Chen Sun, __Bo Wang#__, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu \
 _ACM SIGCOMM 2022_. 
 
-* __Sensitivity-aware Spatial Quality Adaptation for Live Video Analytics__
+* __Sensitivity-aware Spatial Quality Adaptation for Live Video Analytics__ \
 Wufan Wang, __Bo Wang__, Lei Zhang, Hua Huang \
 _IEEE Journal on Selected Areas in Communications (JSAC), 2022_. 
 
-* __Improving Robustness of DASH Against Unpredictable Network Variations__
+* __Improving Robustness of DASH Against Unpredictable Network Variations__ \
 __Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu \
 _IEEE Transactions on Multimedia (TMM), 2021_.
 
-* __Cratus: a Lightweight and Robust Approach for Mobile Live Streaming__
+* __Cratus: a Lightweight and Robust Approach for Mobile Live Streaming__ \
 __Bo Wang__, Mingwei Xu, Fengyuan Ren, Jianping Wu \
 _IEEE Transactions on Mobile Computing (TMC), 2020_. 
 
-* __Improving the Performance of Online Bitrate Adaptation with Multi-step Prediction over Cellular Networks__
+* __Improving the Performance of Online Bitrate Adaptation with Multi-step Prediction over Cellular Networks__ \
 __Bo Wang__, Fengyuan Ren, Jiahai Yang, Chao Zhou \
 _IEEE Transactions on Mobile Computing (TMC), 2019_. 
 
-* __Towards Forward-looking Online Bitrate Adaptation for DASH__
+* __Towards Forward-looking Online Bitrate Adaptation for DASH__ \
 __Bo Wang__, Fengyuan Ren
 _ACM Multimedia (MM), 2017. (Oral, Acceptance rate 7.5%)_
 
