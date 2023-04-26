@@ -19,7 +19,7 @@ I'm actively looking for self-motivated Ph.D., master, and undergraduate student
 Selected Publications
 ==
   
-* ___<font size=1>DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction</font>___ \
+* ___<font size=2>DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction</font>___ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
 _WWW 2023_. 
 
