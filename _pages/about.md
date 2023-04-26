@@ -56,5 +56,5 @@ Academic Service
 --
 * Publication Chair: IEEE PRDC 2022
 * Session Chair: IEEE IWQoS 2022, APAN 2022
-* TPC member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
+* TPC Member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
 * Reviewer: IEEE INFOCOM 2020, IEEE JSAC
