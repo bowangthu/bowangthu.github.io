@@ -51,3 +51,10 @@ Awards
 * 2022: Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程)
 * 2022: Top 10 N2Women Rising Stars in Computer Networking and Communications
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
+
+Academic Service
+--
+* Publication Chair: IEEE PRDC 2022
+* Session Chair: IEEE IWQoS 2022, APAN 2022
+* TPC member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
+* Reviewer: IEEE INFOCOM 2020, IEEE JSAC
