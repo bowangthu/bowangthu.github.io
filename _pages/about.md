@@ -20,8 +20,8 @@ Selected Publications
 ==
   
 * ___<font size=3>DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction</font>___ \
-Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
-_WWW 2023_. 
+<font size=3>Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren</font> \
+<font size=3>_WWW 2023_</font>. 
 
 * __Enabling High Quality Real-Time Communications with Adaptive Frame-Rate__ \
 Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
