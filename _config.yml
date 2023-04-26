@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bo Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Bo Wang (王博)"
+name                     : &name "Bo Wang"
 description              : &description "personal description"
 url                      : https://bowangthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bo Wang"
+  name             : "Bo Wang (王博)"
   avatar           : "bio.png"
   bio              : "Assistant Professor"
   location         : "Tsinghua University, Beijing"
