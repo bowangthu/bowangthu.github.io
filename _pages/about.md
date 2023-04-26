@@ -21,7 +21,7 @@ Selected Publications
   
 * ___DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction___ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
-_WWW 2023_
+___WWW 2023___
 
 * ___Enabling High Quality Real-Time Communications with Adaptive Frame-Rate___ \
  Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
