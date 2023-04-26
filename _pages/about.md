@@ -22,7 +22,6 @@ Real-Time Communications (RTC), Live streaming, VoD streaming
 
 Selected Publications
 ==
-<font size = 2>
   
 * __DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction__ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
@@ -56,4 +55,3 @@ _IEEE Transactions on Mobile Computing (TMC), 2019_.
 __Bo Wang__, Fengyuan Ren
 _ACM Multimedia (MM), 2017. (Oral, Acceptance rate 7.5%)_
   
-</font>
