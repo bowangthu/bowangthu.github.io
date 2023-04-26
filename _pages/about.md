@@ -48,6 +48,6 @@ __Bo Wang__, Fengyuan Ren, Jiahai Yang, Chao Zhou \
 _IEEE Transactions on Mobile Computing (TMC), 2019_. 
 
 * __Towards Forward-looking Online Bitrate Adaptation for DASH__ \
-__Bo Wang__, Fengyuan Ren
+__Bo Wang__, Fengyuan Ren \
 _ACM Multimedia (MM), 2017. (Oral, Acceptance rate 7.5%)_
   
