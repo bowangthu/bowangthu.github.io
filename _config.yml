@@ -86,7 +86,7 @@ author:
   location         : "Tsinghua University, Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LrZk_oMAAAAJ&hl=en&oi=sra"
+  googlescholar    : #"https://scholar.google.com/citations?user=LrZk_oMAAAAJ&hl=en&oi=sra"
   email            :  "wangbo2019@tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
