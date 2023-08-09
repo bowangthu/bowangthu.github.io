@@ -54,7 +54,7 @@ _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
 
 # Academic Service
-* Workshop Chair: N2Women 2023 (colocated with SIGCOMM 2023)
+* Workshop Chair: ACM SIGCOMM N2Women 2023
 * Publication Chair: IEEE PRDC 2022
 * Session Chair: IEEE IWQoS 2022, APAN 2022
 * TPC Member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
