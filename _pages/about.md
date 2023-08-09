@@ -12,6 +12,10 @@ Now, I’m an assistant professor at Tsinghua University. Before that, I was a P
 ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, and undergraduate students! Please contact me if you are interested.</font>___
 
 # Selected Publications
+* ___Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming___ \
+Zili Meng, Xiao Kong, Jing Chen, __Bo Wang__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei \
+_NSDI 2024_
+
 * ___DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction___ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
 _WWW 2023_
@@ -50,6 +54,7 @@ _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
 
 # Academic Service
+* Workshop Chair: N2Women 2023 (colocated with SIGCOMM 2023)
 * Publication Chair: IEEE PRDC 2022
 * Session Chair: IEEE IWQoS 2022, APAN 2022
 * TPC Member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
