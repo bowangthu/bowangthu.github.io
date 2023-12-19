@@ -53,12 +53,13 @@ __Bo Wang__, Fengyuan Ren \
 _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
 
 # Awards
-* 2023: World Internet Conference “Global Youth Leaders”
+* 2023: World Internet Conference “Global Youth Leaders” (世界互联网大会“全球青年领军者”)
 * 2022: Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程)
 * 2022: Top 10 N2Women Rising Stars in Computer Networking and Communications
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
 
 # Academic Service
+* APAN Board of Director
 * Workshop Chair: ACM SIGCOMM N2Women 2023
 * Publication Chair: IEEE PRDC 2022
 * Session Chair: IEEE IWQoS 2022, APAN 2022
