@@ -12,6 +12,10 @@ Now, I’m an assistant professor at Tsinghua University. Before that, I was a P
 ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, and undergraduate students! Please contact me if you are interested.</font>___
 
 # Selected Publications
+* ___Explicit Dropping Notification in Data Centers___ \
+Qingkai Meng, Yiran Zhang, Chaolei Hu, __Bo Wang#__, Fengyuan Ren \
+_INFOCOM 2024_
+
 * ___Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming___ \
 Zili Meng, Xiao Kong, Jing Chen, __Bo Wang__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei \
 _NSDI 2024_
@@ -49,6 +53,7 @@ __Bo Wang__, Fengyuan Ren \
 _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
 
 # Awards
+* 2023: World Internet Conference “Global Youth Leaders”
 * 2022: Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程)
 * 2022: Top 10 N2Women Rising Stars in Computer Networking and Communications
 * 2019: Shuimu Tsinghua Scholar (清华大学水木学者计划)
