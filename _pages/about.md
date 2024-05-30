@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Now, I’m an assistant professor at Tsinghua University. Before that, I was a Postdoctoral researcher at Tsinghua University working with Prof. [Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) during July 2019 - October 2021. In June 2019, I received my Ph.D. in computer science and technology from the Tsinghua University under the supervision of Prof. [Fengyuan Ren](http://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html). I received my B.S. from the Beijing University of Posts and Telecommunications in 2014. My research interests include real-time communications (RTC), Live streaming, VoD streaming.
+Now, I’m an assistant professor at Tsinghua University. Before that, I was a Postdoctoral researcher at Tsinghua University working with Prof. [Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and Prof. [Mingwei Xu](https://www.cs.tsinghua.edu.cn/info/1126/3580.htm) during July 2019 - October 2021. In June 2019, I received my Ph.D. in computer science and technology from the Tsinghua University under the supervision of Prof. [Fengyuan Ren](http://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html). I received my B.S. from the Beijing University of Posts and Telecommunications in 2014. My research interests include real-time communications (RTC), Live streaming, VoD streaming.
 
 ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, and undergraduate students! Please contact me if you are interested.</font>___
 
@@ -17,7 +17,7 @@ Qingkai Meng, Yiran Zhang, Chaolei Hu, __Bo Wang#__, Fengyuan Ren \
 _INFOCOM 2024_
 
 * ___Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming___ \
-Zili Meng, Xiao Kong, Jing Chen, __Bo Wang__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei \
+Zili Meng, Xiao Kong, Jing Chen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei \
 _NSDI 2024_
 
 * ___DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction___ \
@@ -64,4 +64,4 @@ _ACM Multimedia (MM), 2017 (Oral, Acceptance rate 7.5%)_
 * Publication Chair: IEEE PRDC 2022
 * Session Chair: IEEE IWQoS 2022, APAN 2022
 * TPC Member: ACM MM (2021, 2022, 2023), IEEE IWQoS 2022
-* Reviewer: IEEE INFOCOM 2020, IEEE JSAC
+* Reviewer: IEEE INFOCOM 2020, IEEE JSAC, IEEE TMC
