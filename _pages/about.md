@@ -19,7 +19,7 @@ _IEEE ICNP 2024_
 
 * ___Enhancing Low Latency Adaptive Live Streaming Through Precise Bandwidth Prediction___ \
 __Bo Wang__, Muhan Su, Wufan Wang, Kefan Chen, et. al \
-_IEEE/ACM ToN 2024_
+_IEEE/ACM Transactions on Networking (ToN), 2024_
 
 * ___Explicit Dropping Notification in Data Centers___ \
 Qingkai Meng, Yiran Zhang, Chaolei Hu, __Bo Wang#__, Fengyuan Ren \
