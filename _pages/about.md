@@ -18,7 +18,7 @@ Jing Chen, __Bo Wang#__, Zhiyuan Xu, Yan Zhang, Minhu Wang, Mingwei Xu, Zili Men
 _IEEE ICNP 2024_
 
 * ___Enhancing Low Latency Adaptive Live Streaming Through Precise Bandwidth Prediction___ \
-Bo Wang, Muhan Su, Wufan Wang, Kefan Chen, et. al \
+__Bo Wang__, Muhan Su, Wufan Wang, Kefan Chen, et. al \
 _IEEE/ACM ToN 2024_
 
 * ___Explicit Dropping Notification in Data Centers___ \
