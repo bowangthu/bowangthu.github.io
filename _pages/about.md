@@ -12,6 +12,15 @@ Now, I’m an assistant professor at Tsinghua University. Before that, I was a P
 ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, and undergraduate students! Please contact me if you are interested.</font>___
 
 # Selected Publications
+
+* ___Bidirectional Bandwidth Coordination under Half-Duplex Bottlenecks for Video Streaming___ \
+Jing Chen, __Bo Wang#__, Zhiyuan Xu, Yan Zhang, Minhu Wang, Mingwei Xu, Zili Meng \
+_IEEE ICNP 2024_
+
+* ___Enhancing Low Latency Adaptive Live Streaming Through Precise Bandwidth Prediction___ \
+Bo Wang, Muhan Su, Wufan Wang, Kefan Chen, et. al \
+_IEEE/ACM ToN 2024_
+
 * ___Explicit Dropping Notification in Data Centers___ \
 Qingkai Meng, Yiran Zhang, Chaolei Hu, __Bo Wang#__, Fengyuan Ren \
 _INFOCOM 2024_
