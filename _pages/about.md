@@ -13,6 +13,10 @@ ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, a
 
 # Selected Publications
 
+* ___Zhuge: Towards Consistent Low Latency with Minimal Control Loop Delay___ \
+__Bo Wang__, Xingxing Yang, Zili Meng, Yaning Guo, Chen Sun, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu, Jianping Wu \
+_IEEE/ACM Transactions on Networking (ToN), 2024_
+
 * ___Bidirectional Bandwidth Coordination under Half-Duplex Bottlenecks for Video Streaming___ \
 Jing Chen, __Bo Wang#__, Zhiyuan Xu, Yan Zhang, Minhu Wang, Mingwei Xu, Zili Meng \
 _IEEE ICNP 2024_
