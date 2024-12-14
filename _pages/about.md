@@ -13,6 +13,10 @@ ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, a
 
 # Selected Publications
 
+* ___ScalaTap: Scalable Outbound Rate Limiting in Public Cloud___ \
+Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, Yiran Zhang, __Bo Wang#__, Wei Li, Fengyuan Ren \
+_IEEE INFOCOM 2025_
+
 * ___Zhuge: Towards Consistent Low Latency with Minimal Control Loop Delay___ \
 __Bo Wang__, Xingxing Yang, Zili Meng, Yaning Guo, Chen Sun, Justine Sherry, Hongqiang Harry Liu, Mingwei Xu, Jianping Wu \
 _IEEE/ACM Transactions on Networking (ToN), 2024_
@@ -21,21 +25,25 @@ _IEEE/ACM Transactions on Networking (ToN), 2024_
 Jing Chen, __Bo Wang#__, Zhiyuan Xu, Yan Zhang, Minhu Wang, Mingwei Xu, Zili Meng \
 _IEEE ICNP 2024_
 
+* ___DockRDMA: Hybrid RDMA Virtualization for Containerized Clouds___ \
+Xiaoyu Li, Ran Shu, Zhongjie Chen, Xiaohui Luo, Yiran Zhang, __Bo Wang#__, Qingkai Meng, Fengyuan Ren \
+_IEEE ICNP 2024_
+
 * ___Enhancing Low Latency Adaptive Live Streaming Through Precise Bandwidth Prediction___ \
 __Bo Wang__, Muhan Su, Wufan Wang, Kefan Chen, et. al \
 _IEEE/ACM Transactions on Networking (ToN), 2024_
 
 * ___Explicit Dropping Notification in Data Centers___ \
 Qingkai Meng, Yiran Zhang, Chaolei Hu, __Bo Wang#__, Fengyuan Ren \
-_INFOCOM 2024_
+_IEEE INFOCOM 2024_
 
 * ___Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming___ \
 Zili Meng, Xiao Kong, Jing Chen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei \
-_NSDI 2024_
+_USENIX NSDI 2024_
 
 * ___DeeProphet: Improving HTTP Adaptive Streaming for Low Latency Live Video by Meticulous Bandwidth Prediction___ \
 Kefan Chen, __Bo Wang__, Wufan Wang, Xiaoyu Li, Fengyuan Ren \
-_WWW 2023_
+_ACM WWW 2023_
 
 * ___Enabling High Quality Real-Time Communications with Adaptive Frame-Rate___ \
  Zili Meng, Tingfeng Wang, Yixin Shen, __Bo Wang#__, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu, Xue Wei\
