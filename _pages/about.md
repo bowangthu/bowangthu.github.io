@@ -14,7 +14,7 @@ ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, a
 # Selected Publications
 
 * ___ScalaTap: Scalable Outbound Rate Limiting in Public Cloud___ \
-Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, Yiran Zhang, __Bo Wang#__, Wei Li, Fengyuan Ren \
+Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, Yiran Zhang, __Bo Wang__, Wei Li, Fengyuan Ren \
 _IEEE INFOCOM 2025_
 
 * ___Zhuge: Towards Consistent Low Latency with Minimal Control Loop Delay___ \
@@ -26,7 +26,7 @@ Jing Chen, __Bo Wang#__, Zhiyuan Xu, Yan Zhang, Minhu Wang, Mingwei Xu, Zili Men
 _IEEE ICNP 2024_
 
 * ___DockRDMA: Hybrid RDMA Virtualization for Containerized Clouds___ \
-Xiaoyu Li, Ran Shu, Zhongjie Chen, Xiaohui Luo, Yiran Zhang, __Bo Wang#__, Qingkai Meng, Fengyuan Ren \
+Xiaoyu Li, Ran Shu, Zhongjie Chen, Xiaohui Luo, Yiran Zhang, __Bo Wang__, Qingkai Meng, Fengyuan Ren \
 _IEEE ICNP 2024_
 
 * ___Enhancing Low Latency Adaptive Live Streaming Through Precise Bandwidth Prediction___ \
