@@ -14,7 +14,7 @@ ___<font color=red>👋 I'm actively looking for self-motivated Ph.D., master, a
 # Selected Publications
 
 * ___Mortise: Auto-tuning Congestion Control to Optimize QoE via Network-Aware Parameter Optimization___ \
-Yixin Shen, Ruihua Chen, __Bo Wang__, Jing Chen, Haochen Zhang, Minhu Wang, Yan Liu, Mingwei Xu, Zili Meng \
+Yixin Shen, Ruihua Chen, __Bo Wang#__, Jing Chen, Haochen Zhang, Minhu Wang, Yan Liu, Mingwei Xu, Zili Meng \
 _USENIX NSDI 2026_
 
 * ___ScalaTap: Scalable Outbound Rate Limiting in Public Cloud___ \
